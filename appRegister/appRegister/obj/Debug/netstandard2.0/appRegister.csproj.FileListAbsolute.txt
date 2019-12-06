@@ -1,0 +1,14 @@
+C:\Users\pci5\Desktop\Xamarin forms\appRegister\appRegister\appRegister\bin\Debug\netstandard2.0\appRegister.deps.json
+C:\Users\pci5\Desktop\Xamarin forms\appRegister\appRegister\appRegister\bin\Debug\netstandard2.0\appRegister.dll
+C:\Users\pci5\Desktop\Xamarin forms\appRegister\appRegister\appRegister\bin\Debug\netstandard2.0\ref\appRegister.dll
+C:\Users\pci5\Desktop\Xamarin forms\appRegister\appRegister\appRegister\bin\Debug\netstandard2.0\appRegister.pdb
+C:\Users\pci5\Desktop\Xamarin forms\appRegister\appRegister\appRegister\obj\Debug\netstandard2.0\appRegister.csprojAssemblyReference.cache
+C:\Users\pci5\Desktop\Xamarin forms\appRegister\appRegister\appRegister\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pci5\Desktop\Xamarin forms\appRegister\appRegister\appRegister\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pci5\Desktop\Xamarin forms\appRegister\appRegister\appRegister\obj\Debug\netstandard2.0\Register.xaml.g.cs
+C:\Users\pci5\Desktop\Xamarin forms\appRegister\appRegister\appRegister\obj\Debug\netstandard2.0\appRegister.AssemblyInfoInputs.cache
+C:\Users\pci5\Desktop\Xamarin forms\appRegister\appRegister\appRegister\obj\Debug\netstandard2.0\appRegister.AssemblyInfo.cs
+C:\Users\pci5\Desktop\Xamarin forms\appRegister\appRegister\appRegister\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pci5\Desktop\Xamarin forms\appRegister\appRegister\appRegister\obj\Debug\netstandard2.0\appRegister.dll
+C:\Users\pci5\Desktop\Xamarin forms\appRegister\appRegister\appRegister\obj\Debug\netstandard2.0\ref\appRegister.dll
+C:\Users\pci5\Desktop\Xamarin forms\appRegister\appRegister\appRegister\obj\Debug\netstandard2.0\appRegister.pdb

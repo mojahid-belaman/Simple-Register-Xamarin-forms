@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="appRegister.Register"
+             BackgroundColor="#7F3CBD">
+    <ContentPage.Content>
+        <StackLayout>
+            <BoxView></BoxView>
+            <BoxView></BoxView>
+            <Label
+                Text="Welcome"
+                HorizontalOptions="Center"
+                FontSize="30"
+                Opacity="0.7"
+                TextColor="#FFFFFF"
+                >
+            </Label>
+            <BoxView></BoxView>
+            <StackLayout>
+                <Entry 
+                    Placeholder="First Name"
+                    PlaceholderColor="#D1AFF7"
+                    Margin="0, 0, 20, 0"
+                    x:Name="txtfrst"
+                    >
+                </Entry>
+                <Entry
+                    Placeholder="Last Name"
+                    PlaceholderColor="#D1AFF7"
+                    Margin="0, 0, 20, 0"
+                    x:Name="txtlast"
+                    >
+                </Entry>
+                <Entry
+                    Placeholder="Email"
+                    PlaceholderColor="#D1AFF7"
+                    Margin="0, 0, 20, 0"
+                    x:Name="txtemail"
+                    >
+                </Entry>
+                <Entry
+                    Placeholder="Password"
+                    PlaceholderColor="#D1AFF7"
+                    Margin="0, 0, 20, 0"
+                    IsPassword="True"
+                    x:Name="txtpsw"
+                    >
+                </Entry>
+            </StackLayout>
+            <Button
+                Text="Register"
+                BackgroundColor="#5C2599"
+                TextColor="White"
+                x:Name="btn"
+                ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
